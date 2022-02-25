@@ -1,0 +1,14 @@
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\bin\Debug\net6.0\ActionDelegate.exe
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\bin\Debug\net6.0\ActionDelegate.deps.json
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\bin\Debug\net6.0\ActionDelegate.runtimeconfig.json
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\bin\Debug\net6.0\ActionDelegate.dll
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\bin\Debug\net6.0\ref\ActionDelegate.dll
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\bin\Debug\net6.0\ActionDelegate.pdb
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\obj\Debug\net6.0\ActionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\obj\Debug\net6.0\ActionDelegate.AssemblyInfoInputs.cache
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\obj\Debug\net6.0\ActionDelegate.AssemblyInfo.cs
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\obj\Debug\net6.0\ActionDelegate.csproj.CoreCompileInputs.cache
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\obj\Debug\net6.0\ActionDelegate.dll
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\obj\Debug\net6.0\ref\ActionDelegate.dll
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\obj\Debug\net6.0\ActionDelegate.pdb
+C:\Users\gzg\RiderProjects\FuncActionDelegates\src\ActionDelegate\obj\Debug\net6.0\ActionDelegate.genruntimeconfig.cache
